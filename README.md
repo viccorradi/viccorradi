@@ -1,50 +1,36 @@
-# Victor Corradi
+# Olá, eu sou o Victor 👋
 
-**`Desenvolvedor Back-end`**
+🎓 Estudante de Engenharia de Software  
+📍 Brasil  
+💻 Em constante aprendizado e desenvolvimento  
 
-Me chamo Victor Corradi, tenho 20 anos e sou natural de Belo Horizonte. Atualmente, estou cursando Engenharia de Software na PUCMG. Sou um entusiasta e estudante de desenvolvimento back-end, focado em aprimorar minhas habilidades com a linguagem Java e Python. Tenho me dedicado a aprender os fundamentos e as melhores práticas para construir aplicações robustas e escaláveis, explorando ativamente frameworks como Spring Boot e entendendo o funcionamento de APIs RESTful e bancos de dados.
+---
 
+## 🚀 Sobre mim
 
-### 🤖 Linguagens e Tecnologias
+Atualmente cursando Engenharia de Software, com foco no desenvolvimento de base sólida em programação, estruturas de dados e construção de sistemas.
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<br/>
-<br/>
+Buscando evoluir tecnicamente e desenvolver projetos práticos ao longo da graduação.
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=viccorradi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 🛠️ Tecnologias em aprendizado
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viccorradi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+- Lógica de Programação
+- Estrutura de Dados
+- Programação Orientada a Objetos
+- Git e GitHub
 
+---
 
+## 📚 Atualmente estudando
 
+- Fundamentos de Engenharia de Software
+- Desenvolvimento de Sistemas
+- Boas práticas de código
 
+---
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/victor-corradi-ab280b348/
