@@ -34,3 +34,4 @@ Buscando evoluir tecnicamente e desenvolver projetos práticos ao longo da gradu
 ## 📫 Contato
 
 LinkedIn: https://www.linkedin.com/in/victor-corradi-ab280b348/
+E-mail: contatovictorcrd@gmail.com
