@@ -1,7 +1,7 @@
 # Olá, eu sou o Victor 👋
 
-🎓 Estudante de Engenharia de Software  
-📍 Brasil  
+🎓 Estudante de Engenharia de Software na PUC Minas
+📍 Belo Horizonte, MG, Brasil  
 💻 Em constante aprendizado e desenvolvimento  
 
 ---
@@ -18,8 +18,8 @@ Buscando evoluir tecnicamente e desenvolver projetos práticos ao longo da gradu
 
 - Lógica de Programação
 - Estrutura de Dados
-- Programação Orientada a Objetos
 - Git e GitHub
+- Python
 
 ---
 
