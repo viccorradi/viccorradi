@@ -29,6 +29,8 @@ Atualmente focado em construir uma base sólida em desenvolvimento back-end com 
 
 ## 📊 GitHub Stats
 
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=viccorradi&show_icons=true&theme=dark)
+
 ---
 
 ## 🤝 Contato
