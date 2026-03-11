@@ -1,45 +1,48 @@
-# Olá, eu sou o Victor Corradi 👋
-Estudante de Engenharia de Software · PUC Minas · Belo Horizonte, MG, Brasil
+# 👋 Olá! Eu sou o Victor Corradi
+
+🎓 Estudante de Engenharia de Software na PUC Minas  
+📍 Belo Horizonte - MG, Brasil  
+💻 Interessado em Back-end e Análise de Dados  
 
 ---
 
 ## 🚀 Sobre mim
 
-Estudante de Engenharia de Software na PUC Minas com experiência prévia em gestão de sucesso do cliente e competições técnicas de engenharia (F1 in Schools Brasil — campeão regional, múltiplos campeonatos nacionais 🏆).
+Sou estudante de Engenharia de Software focado em desenvolver uma base sólida em programação, lógica e estruturas de dados.
 
-Atualmente focado em construir uma base sólida em desenvolvimento back-end com Python, estruturas de dados e boas práticas de engenharia de software. Tenho interesse em análise de dados como próximo passo na carreira.
+Antes da faculdade, participei da competição **F1 in Schools Brasil**, onde fui **campeão regional** e participei de múltiplos campeonatos nacionais. Essa experiência desenvolveu minhas habilidades de **trabalho em equipe, resolução de problemas e pensamento analítico**.
+
+Atualmente estou focado em evoluir como desenvolvedor, criando projetos e aprendendo mais sobre desenvolvimento de software.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tecnologias que estou aprendendo
 
-**Linguagens**
-- Python · Java · C (iniciando)
+- Python
+- Java
+- C
+- Git e GitHub
 
-**Ferramentas & Práticas**
-- Git & GitHub · VS Code · Eclipse IDE
-- Algoritmos & Estruturas de Dados · Lógica de Programação
+---
 
-**Estudando ativamente**
-- Fundamentos de Engenharia de Software
-- Desenvolvimento de Sistemas
-- Análise de Dados (futuro foco)
+## 🛠️ Ferramentas
+
+- VS Code  
+- Eclipse  
+- Git  
 
 ---
 
 ## 📊 GitHub Stats
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=viccorradi&show_icons=true&theme=dark)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viccorradi&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🤝 Contato
+## 📫 Contato
 
-LinkedIn: https://www.linkedin.com/in/victor-corradi-ab280b348/
-E-mail: contatovictorcrd@gmail.com
----
+💼 LinkedIn  
+https://www.linkedin.com/in/victor-corradi-ab280b348/
 
-💡 *"Bons sistemas são construídos sobre fundamentos sólidos."*
-
-LinkedIn: https://www.linkedin.com/in/victor-corradi-ab280b348/
-E-mail: contatovictorcrd@gmail.com
+📧 Email  
+contatovictorcrd@gmail.com
