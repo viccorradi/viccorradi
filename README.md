@@ -1,37 +1,43 @@
-# Olá, eu sou o Victor 👋
-
-🎓 Estudante de Engenharia de Software na PUC Minas
-📍 Belo Horizonte, MG, Brasil  
-💻 Em constante aprendizado e desenvolvimento  
+# Olá, eu sou o Victor Corradi 👋
+Estudante de Engenharia de Software · PUC Minas · Belo Horizonte, MG, Brasil
 
 ---
 
 ## 🚀 Sobre mim
 
-Atualmente cursando Engenharia de Software, com foco no desenvolvimento de base sólida em programação, estruturas de dados e construção de sistemas.
+Estudante de Engenharia de Software na PUC Minas com experiência prévia em gestão de sucesso do cliente e competições técnicas de engenharia (F1 in Schools Brasil — campeão regional, múltiplos campeonatos nacionais 🏆).
 
-Buscando evoluir tecnicamente e desenvolver projetos práticos ao longo da graduação.
-
----
-
-## 🛠️ Tecnologias em aprendizado
-
-- Lógica de Programação
-- Estrutura de Dados
-- Git e GitHub
-- Python
+Atualmente focado em construir uma base sólida em desenvolvimento back-end com Python, estruturas de dados e boas práticas de engenharia de software. Tenho interesse em análise de dados como próximo passo na carreira.
 
 ---
 
-## 📚 Atualmente estudando
+## 🛠️ Tech Stack
 
+**Linguagens**
+- Python · Java · C (iniciando)
+
+**Ferramentas & Práticas**
+- Git & GitHub · VS Code · Eclipse IDE
+- Algoritmos & Estruturas de Dados · Lógica de Programação
+
+**Estudando ativamente**
 - Fundamentos de Engenharia de Software
 - Desenvolvimento de Sistemas
-- Boas práticas de código
+- Análise de Dados (futuro foco)
 
 ---
 
-## 📫 Contato
+## 📊 GitHub Stats
+
+---
+
+## 🤝 Contato
+
+LinkedIn: https://www.linkedin.com/in/victor-corradi-ab280b348/
+E-mail: contatovictorcrd@gmail.com
+---
+
+💡 *"Bons sistemas são construídos sobre fundamentos sólidos."*
 
 LinkedIn: https://www.linkedin.com/in/victor-corradi-ab280b348/
 E-mail: contatovictorcrd@gmail.com
