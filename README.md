@@ -45,4 +45,4 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos e aprend
 https://www.linkedin.com/in/victor-corradi-ab280b348/
 
 📧 Email  
-contatovictorcrd@gmail.com
+victorcorradidev@hotmail.com
